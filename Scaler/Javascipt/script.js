@@ -1,2 +1,2 @@
-var something = "true"
-console.log(something)
+let something = "true";
+console.log(something);
